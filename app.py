@@ -9,7 +9,7 @@ from langchain_core.runnables import RunnablePassthrough
 #from config import API_KEY
 
 # --- Configuration ---
-API_KEY = 'AIzaSyDcO0w9yX0ZG9kE7vwHoa7Tj5tkvLHfjGI'
+#API_KEY = 'AIzaSyDcO0w9yX0ZG9kE7vwHoa7Tj5tkvLHfjGI'
 GEMINI_API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={API_KEY}"
 
 # --- Streamlit Setup ---
