@@ -1,4 +1,4 @@
-pip install streamlit langchain 
+#pip install streamlit langchain 
 
 import streamlit as st
 import requests
