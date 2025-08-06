@@ -1,3 +1,5 @@
+pip install streamlit langchain 
+
 import streamlit as st
 import requests
 import json
